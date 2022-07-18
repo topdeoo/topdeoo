@@ -18,5 +18,7 @@ Here are some ideas to get you started:
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=Virgil&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
-![Virgil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virgil&show_icons=true)
+![Virgil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virgil&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Virgil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
