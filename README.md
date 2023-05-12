@@ -1,23 +1,11 @@
 ### Hi there 👋
 
-Here's Virgil.
+Here's Virgil. An undergraduate student in NENU. A CSer who live a failed life.
 
-🔭 I'm baidalaning
-
-<!--
-**topdeoo/topdeoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Combinatoral Optimization Problem and Computer System such as OS
+- 🌱 I’m currently learning NJU OS, MIT 6.824, CS 143 etc.
+- 💬 Ask me about how to become a loser XD
+- 📫 How to reach me: virgiling7@gmail.com
 
 ![Virgil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virgil&show_icons=true&theme=onedark)
 
