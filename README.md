@@ -2,7 +2,7 @@
   <div align="left">
     <h2> Hi there 👋 </h2>
 
-    Here's Virgil. An undergraduate student in NENU. A CSer who live a failed life.
+    <p> Here's Virgil. An undergraduate student in NENU. A CSer who live a failed life. </p>
 
     <ul>
       <li> 🔭 I’m currently working on Combinatoral Optimization Problem and Computer System such as OS </li>
