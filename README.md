@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Virgil&show_icons=true&theme=onedark" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=topdeoo" />
 
 ## Hi there 👋
 
