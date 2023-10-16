@@ -1,4 +1,4 @@
-### Introcudciton  
+## Introcudciton  
 ### Hi there,  
   
 
@@ -13,7 +13,7 @@ My personal blog: [Virgil's Blogs](https::topdeoo.github.io)
 <br/>  
 
 
-## My Skill Set  
+## Skill Tree
 <table><tr><td valign="top" width="33%">
 
 
