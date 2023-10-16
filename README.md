@@ -5,7 +5,9 @@
 My name is Virgil, a code rookie, currently studying for a master's degree of CS.   
   
 
-- 🔭 I’m currently interest in computer system, such as os, compiler, combination optimization problem  
+- 🔭 I’m currently interest in computer system, such as os, compiler, combination optimization problem
+
+My personal blog: [Virgil's Blogs](https::topdeoo.github.io)
   
 
 <br/>  
@@ -65,14 +67,3 @@ My name is Virgil, a code rookie, currently studying for a master's degree of CS
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=topdeoo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
