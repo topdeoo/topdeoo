@@ -7,7 +7,7 @@ My name is Virgil, a code rookie, currently studying for a master's degree of CS
 
 - 🔭 I’m currently interest in computer system, such as os, compiler, combination optimization problem
 
-My personal blog: [Virgil's Blogs](https::topdeoo.github.io)
+My personal blog: [Virgil's Blogs](https://topdeoo.github.io)
   
 
 <br/>  
